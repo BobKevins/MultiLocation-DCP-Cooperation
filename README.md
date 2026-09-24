@@ -3,7 +3,7 @@
 ## Repository Structure / 目录结构
 
 ```text
-Final_Code_npjRevise_foropen_v2/
+Final_Code/
 ├── Input_Data/                         Basic input data / 基础输入数据
 ├── Common_Functions/                   Common models and solution functions / 公共模型与求解函数
 ├── Paper_Case/                         Main case studies presented in the paper / 正文主算例
